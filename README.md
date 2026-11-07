@@ -1,6 +1,6 @@
 libQtShadowsocks
 ================
-
+Fixed to build with Botan 2.19 (Linux Mint 22 / Ubuntu 24.04). For the ready-made program, see https://github.com/hjzwerver/shadowsocks-qt5/releases
 **This project is no longer being maintained**
 
 [![Build Status](https://travis-ci.org/shadowsocks/libQtShadowsocks.svg?branch=master)](https://travis-ci.org/shadowsocks/libQtShadowsocks) <a href="https://copr.fedorainfracloud.org/coprs/librehat/shadowsocks/package/libQtShadowsocks/"><img src="https://copr.fedorainfracloud.org/coprs/librehat/shadowsocks/package/libQtShadowsocks/status_image/last_build.png" /></a>
