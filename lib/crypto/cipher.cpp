@@ -26,8 +26,7 @@
 #include <stdexcept>
 
 #include <botan/auto_rng.h>
-#include <botan/key_filt.h>
-#include <botan/lookup.h>
+#include <botan/filters.h>
 #include <botan/md5.h>
 #include <botan/pipe.h>
 
